@@ -5,6 +5,7 @@
 * richarsamu2 - Game Programmer
 * atkinsdy - Game Programmer
 * Aaron - Game Designer
+* Jakob - Game Designer
 
 ### Game Information
 A top down 1v3 asymmetrical survival horror where a group of expungers enter a location inhabited by an entity, and attempt to perform a ritual to banish the entity. 
