@@ -1,13 +1,16 @@
 # UnknownHorrorGame - CGRA359
+## Project plan
 
-## Members & Roles
+### Members & Roles
 * richarsamu2 - Game Programmer
 * atkinsdy - Game Programmer
 
-## Project plan
+
 ### Game Information
 A top down 1v3 asymmetrical survival horror where a group of expungers enter a location inhabited by an entity, and attempt to perform a ritual to banish the entity. 
 Inspired by Dead by Daylight, Video Horror Society and Texas Chainsaw Massacre. ♡
+
+Concepts and notes can be found within the /concepts/ folder
 
 #### Expungers
 * Limited vision, aided by aimable flashlight.
@@ -33,4 +36,8 @@ Entity Victory -> Rid the Expungers.
 * <kbd>M1</kbd> Attack (As Entity)
 
 ## Desired outcomes
-Hopefully a working game.
+From our project we are hoping to develop some skills relating to expanding our knowledge of game programming, including working with sessions and developing a multiplayer game.
+
+We are also hoping to develop our skills in working as a team, this includes properly communicating what we intend to change, and creating code that is easy to understand by others. 
+
+Learning how to properly utilize version control, in this case Github in order to make changes to our game without causing conflict errors.
