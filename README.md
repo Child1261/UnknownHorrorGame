@@ -2,7 +2,7 @@
 ## Project plan
 
 ### Members & Roles
-* richarsamu2 (Child1261) - Game Programmer
+* richarsamu2 - Game Programmer
 * atkinsdy - Game Programmer
 * Aaron - Game Designer
 * Jakob - Game Designer
